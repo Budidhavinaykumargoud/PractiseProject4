@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\obj\Debug\PractiseProject4.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\obj\Debug\PractiseProject4.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\bin\Debug\PractiseProject4.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\bin\Debug\PractiseProject4.exe
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\bin\Debug\PractiseProject4.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\obj\Debug\PractiseProject4.exe
+C:\Users\User\OneDrive\Desktop\Assigment\PractiseProject4\PractiseProject4\PractiseProject4\obj\Debug\PractiseProject4.pdb
